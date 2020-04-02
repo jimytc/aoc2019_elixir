@@ -2,6 +2,8 @@
 
 **TODO: Add description**
 
+![.github/workflows/test.yml](https://github.com/jimytc/aoc2019_elixir/workflows/.github/workflows/test.yml/badge.svg)
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
